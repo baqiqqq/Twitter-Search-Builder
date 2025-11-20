@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Twitter Advanced Search Builder",
+  "description": "A visual tool to generate complex Twitter search queries without needing to memorize operators. Select dates, accounts, keywords, and filters to instantly get a copy-paste ready search string.",
+  "requestFramePermissions": []
+}
